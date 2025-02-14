@@ -1,0 +1,572 @@
+Exoneraties voor indirecte schade
+Over de uitleg van dit boilerplate-beding naar Nederlands en Anglo-Amerikaans recht
+Mr. J.W.A. Dousi*
+1. Inleiding
+De wettelijke schadevergoedingsregeling in het Burgerlijk Wetboek (BW) heeft als uitgangspunt dat de schadelijdende contractspartij zo veel mogelijk in de toestand
+moet worden gebracht die (vermoedelijk) bestaan zou
+hebben indien de wanprestatie niet zou zijn gepleegd.1
+Partijen kunnen in hun contract afwijken van die wettelijke regeling. Een veelgebruikte aansprakelijkheidsbeperking (exoneratie) is een uitsluiting voor zogenoemde
+‘indirecte schade’.2
+ Maar wat sluiten partijen hiermee
+precies uit?
+De term ‘indirecte schade’ komt niet voor in het Burgerlijk Wetboek. Ook in de Nederlandse jurisprudentie
+is het geen vastomlijnd begrip. Waarom gebruiken contractspartijen, of in veel gevallen hun juristen, deze
+* Mr. J.W.A. Dousi is promovendus bij de Radboud Universiteit Nijmegen
+en legal counsel bij Koninklijke FrieslandCampina N.V.
+1. Afdeling 6.1.10 BW. Zie Asser/Hartkamp & Sieburgh 6-II 2013/31.
+2. In plaats van indirecte schade wordt ook de term gevolgschade
+gebruikt. Deze termen zullen in dit artikel als synoniemen van elkaar
+worden gebruikt. Zie P.G. Van der Putt, Distributie van software,
+Monografieën Recht en Informatietechnologie, deel 5, p. 77; R.P.J.L.
+Tjittes, Veelvoorkomende misverstanden bij het gebruik van AngloAmerikaanse termen in internationale contracten, Contracteren 2008,
+p. 43. Zie bijv. ook Hof Arnhem-Leeuwarden 24 december 2013,
+ECLI:NL:GHARL:2013:9927; Rb. Utrecht 6 juni 2012, ECLI:NL:RBUTR:
+2012:BX0533 (Prorail/DB Schenker Rail Nederland). Ook in het AngloAmerikaanse recht worden de begrippen ‘indirect damages’ en ‘consequential damages’ doorgaans als synoniemen van elkaar gezien. Ook de
+term ‘special damages’ wordt gebruikt als synoniem voor’ indirect
+damages’. Zie G. Odry, Exclusion of consequential damages: write what
+you mean, International construction law review 2012/2.
+onduidelijke term dan toch in hun exoneratiebeding?
+Een mogelijke verklaring hiervoor is dat Nederlandse
+juristen, vooral als zij het contract in het Engels opstellen, geregeld gebruikmaken van voorbeelden of modelcontracten die afkomstig zijn uit de Anglo-Amerikaanse
+rechtspraktijk.3
+ Op die manier worden, bewust of onbewust, Anglo-Amerikaanse rechtsbegrippen overgenomen in naar Nederlands recht gesloten contracten.4
+ Ook
+de term indirecte schade komt uit het Anglo-Amerikaanse recht.5
+De term indirecte schade heeft zijn Anglo-Amerikaanse
+oorsprong in een belangrijke uitspraak van de Engelse
+3. R.P.J.L. Tjittes, Uitleg van schriftelijke contracten (Cahier Privaatrecht),
+Nijmegen: Ars Aequi Libri 2009, p. 81; C.E. Drion, Anglo-Amerikaanse
+contracten, een zegen of een ramp?, NJB 2011/1224; P.S. Bakker, Uitleg van commerciële contracten (I),WPNR (2011), 6890; M. Uijen, Boilerplate-clausules: Ketelbinkie in Contractenland, Contracteren 2010/4;
+G. Cordero-Moss, (red.), Boilerplate Clauses, International Commercial
+Contracts and the Applicable Law, Cambridge University Press 2011,
+p. 20; L. Moerel & B. Van Reeken, Outsourcing: een juridische gids voor
+de praktijk, Kluwer 2009, p. 215.
+4. Strikt genomen bestaat er niet zoiets als het Anglo-Amerikaanse recht.
+Engeland en de Verenigde Staten hebben ieder hun eigen rechtssysteem. De term Anglo-Amerikaans recht kan desalniettemin gebruikt
+worden om te verwijzen naar een groot aantal rechtsregels en beginselen die in beide stelsel hetzelfde zijn en die hun grondslag hebben in de
+Engelse common law of contracts. Zie E.A. Farnsworth, United States
+Contract Law, Juris Publishing 1999, p. 32.
+5. H.N. Schelhaas, Optioneel internationaal contractenrecht in de Nederlandse praktijk, Tijdschrift overeenkomst in de rechtspraktijk 2014/4,
+p. 26; Tjittes 2008, p. 43. Zie daarentegen Tjong Tjin Tai, die betoogt
+dat de term niet uit het Anglo-Amerikaanse recht afkomstig kan zijn,
+omdat hij al wordt aangetroffen in jurisprudentie uit de jaren zestig en
+zeventig. T.F.E. Tjong Tjin Tai, Directe schade in het contractenrecht,
+MvV 2007/11, p. 230. Gezien de bredere trend om Anglo-Amerikaanse
+rechtsbegrippen over te nemen in Nederlandse contracten, meen ik,
+evenals de meeste auteurs, dat het veeleer voor de hand ligt dat ook
+het recente gebruik van de term indirecte schade zijn herkomst heeft in
+het Anglo-Amerikaanse recht.
+22
+Contracteren maart 2017 | nr. 1 doi: 10.5553/Contr/156608932017019001005
+Deze download van Boom uitgevers is enkel voor zakelijk gebruik voor Legisys / Houthoff | AI Pilot.
+Court of Exchequer Chamber uit het jaar 1854: Hadley vs.
+Baxendale.6
+Tot die tijd is er in het Engelse recht nauwelijks sprake
+van een eenduidige schadevergoedingsregeling. Welke
+schade voor vergoeding in aanmerking komt bij wanprestatie is grotendeels overgelaten aan de ruime beslissingsbevoegdheid van de rechter. De Court of Exchequer Chamber brengt daar met Hadley vs. Baxendale verandering in. De Court bepaalt dat bij wanprestatie de
+schadelijdende partij recht heeft op vergoeding van ten
+eerste de (normale) schade die natuurlijk voortvloeit uit
+de tekortkoming, en ten tweede de (bijzondere) schade
+waarmee partijen bij het sluiten van het contract rekening hielden of hadden kunnen houden. De eerste categorie is bekend komen te staan als directe schade en de
+tweede categorie als indirecte schade.7
+Deze regel uit het arrest Hadley vs. Baxendale vertegenwoordigt ook nu nog het geldende recht in zowel Amerika8
+ als Engeland.9
+ In reactie op deze uitspraak komt er
+in de Anglo-Amerikaanse rechtspraktijk een boilerplatebeding tot stand waarmee partijen hun aansprakelijkheid
+voor indirecte schade uitsluiten en zo hun aansprakelijkheid beperken ten opzichte van de regel uit Hadley vs.
+Baxendale.10
+In de Nederlandse rechtspraktijk is het gebruik van het
+boilerplate-beding overgenomen en wordt een uitsluiting van indirecte schade bijvoorbeeld gebruikt in koopovereenkomsten voor roerende goederen en (ICT-)diensten, en in bedrijfsovername-overeenkomsten. Echter
+dat de term als een Fremdkörper in onze rechtsorde is
+opgenomen, betekent nog niet dat de betekenis ervan
+ook op één lijn gesteld kan worden met de Anglo-Amerikaanse betekenis. Aan de hand van de Haviltex-norm
+zal van geval tot geval moeten worden vastgesteld wat de
+betekenis is van een exoneratiebeding voor indirecte
+schade.
+In deze bijdrage bespreek ik de Anglo-Amerikaanse achtergrond van het begrip indirecte schade. Het nut daarvan is tweeërlei. Ik meen dat, afhankelijk van de omstan6. Hadley vs. Baxendale (1854), 9 Ex. 341, 156 Eng. Rep. 145. Zie over
+deze zaak ook: G.G. Hesen & Hardy, Hadley vs. Baxendale: perhaps the
+best-known of all English contract cases, NTBR 2006/50.
+7. Zie A.L. Corbin, Corbin on Contracts, Vol. 11 (Damages) 2005, par.
+56.6; G.D. West & S.G. Duran, Reassessing the ‘Consequences’ of Consequential Damage Waivers in acquisition Agreements, The Business
+Lawyer 2008/63, p. 791.
+8. Zie bijv. art. 2-714 en 2-715 UCC en par. 351 Restatement (Second) of
+Contracts. Zie ook E.A. Farnsworth, Farnsworth on Contracts, 2004,
+par. 12.14; Corbin 2005, par. 56.2.
+9. Zie J. Cartwright, Contract law, an introduction to the English law of
+contract for the civil lawyer, Bloomsbury 2016, p.294; G.H. Treitel, The
+law of contract, Sweet & Maxwell 2015, par. 20-098-20-111; Sylvia
+Shipping Co Ltd vs. Progress Bulk Carriers Ltd (2010), C.L.C. 470. In
+een aantal specifieke gevallen is een van Hadley vs. Baxendale afwijkende maatstaf aangenomen. Zie Transfield Shipping Inc vs.Mercator Shipping Inc (The Achilleas) (2009), 1 A.C. 61 (HL); Supershield Ltd vs. Siemens Building Technologies FE Ltd (2010), 1 CLC 241, 253.
+10. Zie J.W.A. Dousi, Copy paste, over de uitleg van boilerplate-bedingen
+en wat we kunnen leren van het Amerikaanse recht, Contracteren
+2016/2, p. 37.
+digheden van het geval, de Anglo-Amerikaanse betekenis een gezichtspunt kan zijn bij de uitleg van dit begrip
+naar Nederlands recht. Bovendien meen ik dat de
+Anglo-Amerikaanse betekenis een bron van inspiratie
+voor partijen kan zijn wanneer zij bij het opstellen van
+het contract een definitie opnemen van de term indirecte schade. Een dergelijk definitie reduceert de onzekerheid over de uitleg van het begrip indirecte schade.
+2. Het arrest Hadley vs.
+Baxendale
+De gebroeders Hadley, eisers in deze zaak, hebben een
+molen in Gloucester waarmee zij bloem produceren. Op
+een dag breekt de krukas van de molen. Doordat de
+broers geen reservekrukas hebben, komt de molen stil te
+staan. Voor het maken van een nieuwe krukas heeft de
+leverancier van de krukas de oude krukas als prototype
+nodig. De gebroeders Hadley laten daarom de kapotte
+krukas ophalen en vervoeren naar de leverancier, die is
+gevestigd in Greenwich, 200 kilometer verderop. Hiervoor schakelen zij het transportbedrijf van meneer
+Baxendale in, de gedaagde in deze zaak.11 De gebroeders
+Hadley vragen aan Baxendale of de verzending snel kan
+plaatsvinden, maar zeggen daarbij niet dat de molen in
+de tussentijd stil staat doordat zij niet beschikken over
+een reservekrukas. Baxendale garandeert de gebroeders
+Hadley dat, als zij de krukas de volgende dag voor twaalf
+uur bij hem afleveren, Baxendale de dag daarna de krukas per trein in Greenwich zal bezorgen. Baxendale vervoert de krukas echter niet per trein, maar per boot.
+Goed voorstelbaar is dat dit bijvoorbeeld goedkoper
+was, zodat Baxendale een grotere winst kon maken.
+Echter, doordat de krukas niet per trein maar per boot
+wordt vervoerd, komt de krukas niet de volgende dag
+maar pas na zes dagen in Greenwich aan. Het vervoer
+op de terugweg naar Gloucester gaat wel per trein, zodat
+de vertraging van vijf dagen niet verder oploopt. Met
+een vertraging van in totaal vijf dagen wordt de nieuwe
+krukas dan ook weer bij de gebroeders Hadley bezorgd,
+waarop de molen weer in bedrijf wordt genomen. De
+molenaars houden Baxendale aansprakelijk voor de vertragingsschade en vorderen vergoeding van de gemiste
+inkomsten gedurende de vijf extra dagen dat de molen
+stilstond.
+Een bespreking van deze casus laat de werking zien van
+een exoneratie voor indirecte schade. Ik bespreek deze
+casus eerst in zijn oorspronkelijke vorm: naar AngloAmerikaans recht en zonder exoneratie voor indirecte
+schade. Daarna verken ik hoe de casus zou zijn uitgepakt
+in drie varianten: naar Anglo-Amerikaans recht mét
+deze exoneratie, naar Nederlands recht zonder deze exoneratie en ten slotte naar Nederlands recht mét deze
+exoneratie.
+11. Het transportbedrijf Pickfords & Co. is niet geïncorporeerd en dus wordt
+Baxendale persoonlijk aansprakelijk gehouden.
+23
+doi: 10.5553/Contr/156608932017019001005 Contracteren maart 2017 | nr. 1
+Deze download van Boom uitgevers is enkel voor zakelijk gebruik voor Legisys / Houthoff | AI Pilot.
+3. Anglo-Amerikaans recht,
+zonder exoneratie voor
+indirecte schade
+De gebroeders Hadley en vervoerder Baxendale waren
+geen contractuele aansprakelijkheidsbeperking overeengekomen. Welke schade voor vergoeding in aanmerking
+komt, wordt daarom (uitsluitend) bepaald op grond van
+het algemene aansprakelijkheidsrecht. De Court of
+Exchequer Chamber formuleerde in Hadley vs. Baxendale hiervoor de volgende regel:
+‘Where two parties have made a contract which one
+of them has broken, the damages which the other
+party ought to receive (…) should be such as may
+fairly and reasonably be considered either arising
+naturally, i.e., according to the usual course of things,
+from such breach of contract itself [de directe schade;
+JD], or such as may reasonably be supposed to have
+been in the contemplation of both parties, at the time
+they made the contract [de indirecte schade; JD].’12
+Het onderscheid tussen directe en indirecte schade is er
+dus niet op gebaseerd of de schade in meer of minder
+ver verwijderd verband staat van de tekortkoming.13
+Evenmin is het onderscheid gebaseerd op de vraag of de
+schade voorzien dan wel onvoorzien is. Zowel directe als
+indirecte schade is voorzienbare schade. Schade die niet
+redelijkerwijs voorzienbaar was op het moment van contracteren, komt naar Anglo-Amerikaans recht niet voor
+vergoeding in aanmerking.14
+Het onderscheid ziet op de reden waaróm de schade
+voorzienbaar was. Is de schade voorzienbaar omdat de
+schade natuurlijk, dat wil zeggen volgens de gebruikelijke gang van zaken, voortvloeit uit de tekortkoming, dan
+is er sprake van directe schade. Is de schade voorzienbaar omdat de contractspartijen op het moment van
+contracteren op de hoogte waren of moesten zijn van
+een bijzondere omstandigheid bij de schadelijdende partij en zij er rekening mee hielden of redelijkerwijs hadden moeten houden dat hieruit bepaalde schade zich zou
+kunnen voordoen bij een tekortkoming, dan is er sprake
+van indirecte schade.
+Naar Anglo-Amerikaans recht komt zowel directe als
+indirecte schade voor schadevergoeding in aanmerking.
+De gederfde winst die de molenaars vorderden was echter geen van beide. De Engelse rechter komt tot de conclusie dat de vijfdaagse sluiting van de molen niet de
+12. Hadley v. Baxendale (1854), 9 Ex. 341, 156 Eng. Rep., 145.
+13. Applied Data Processing, Inc. vs. Burroughs Corp., 394 F. Supp. 504,
+509: ‘The distinction between general [or direct] and special [or indirect] damages is not that one is and the other is not the direct and
+proximate consequence of the breach complained of, but that general
+damages are such as naturally and ordinarily follow the breach, whereas
+special damages are those that ensue, not necessarily or ordinarily, but
+because of special circumstances.’
+14. Amerikaans recht: Restatement Second par. 351; UCC 2-715(2)(a).
+Engels recht: Cartwright 2016, p.53, 294.
+gebruikelijke gang van zaken is, omdat men mag verwachten dat molenaars die een krukas opsturen, een
+reserve-exemplaar hebben om de molen niet stil te laten
+vallen. De omstandigheid dat de molenaars geen reserve-exemplaar hadden en de molen hierdoor stilviel,
+kwalificeerde de rechter als een bijzondere omstandigheid, zodat de gederfde winst niet natuurlijk voortvloeide uit de tekortkoming. De gederfde winst is daarmee,
+in dit geval, geen directe schade.
+De Court of Exchequer Chamber behandelt vervolgens
+de vraag of de gederfde winst in dit geval indirecte schade is. Hiervoor onderzoekt de Engelse rechter of de
+molenaars de vervoerder Baxendale hadden geïnformeerd over deze speciale omstandigheid. Is dat het
+geval, dan is de gederfde winst indirecte schade en komt
+zij voor schadevergoeding in aanmerking:
+‘Now, if the special circumstances under which the
+contract was actually made were communicated by
+the plaintiffs to the defendants, and thus known to
+both parties, the damages resulting from the breach
+of such a contract, which they would reasonably contemplate, would be the amount of injury which
+would ordinarily follow from a breach of contract
+under these special circumstances so known and
+communicated.’15
+Mogelijk hebben de molenaars, nadat de problemen
+waren ontstaan, er bij de vervoerder Baxendale tot vervelens toe op gehamerd hoe bezwaarlijk het was dat de
+krukas niet op tijd terug was en dat zij daardoor forse
+schade leden. Het is echter niet in rechte vast komen te
+staan dat zij de vervoerder ook voorafgaand aan het sluiten van het contract hadden geïnformeerd over de
+omstandigheid dat de molen stilstond zolang het onderdeel niet terug was. In die omstandigheid is de gederfde
+winst geen indirecte schade:
+‘But, on the other hand, if these special circumstances were wholly unknown to the party breaking the
+contract, he, at the most, could only be supposed to
+have had in his contemplation the amount of injury
+which would arise generally, and in the great multitude of cases not affected by any special circumstances,
+from such a breach of contract.’16
+Was vervoerder Baxendale wel geïnformeerd over deze
+speciale omstandigheid, dan had hij hierop kunnen anticiperen door bijvoorbeeld in het contract met de molenaars een exoneratie voor gederfde winst op te nemen.
+Nu Baxendale deze kans om de schade uit te sluiten is
+onthouden, zou het volgens de Engelse rechter onrechtvaardig zijn om de gederfde winst als schadevergoeding
+aan de molenaars toe te kennen. De Court of Exchequer
+Chamber verwoordt dit als volgt:
+15. Hadley vs. Baxendale (1854), 9 Ex. 341, 156 Eng. Rep. 145.
+16. Hadley vs. Baxendale (1854), 9 Ex. 341, 156 Eng. Rep. 145.
+24
+Contracteren maart 2017 | nr. 1 doi: 10.5553/Contr/156608932017019001005
+Deze download van Boom uitgevers is enkel voor zakelijk gebruik voor Legisys / Houthoff | AI Pilot.
+‘For, had the special circumstances been known, the
+parties might have specially provided for the breach
+of contract by special terms as to the damages in that
+case; and of this advantage it would be very unjust to
+deprive them.’17
+In de literatuur wordt er wel op gewezen dat deze in
+Hadley vs. Baxendale geformuleerde regel een positief
+effect heeft op informatie-uitwisseling tussen partijen en
+de risicobeperkende maatregelen die zij in reactie hierop
+kunnen nemen.18 Weten de molenaars van een bijzondere omstandigheid aan hun kant die tot extra schade kan
+leiden bij een eventuele tekortkoming van de vervoerder, dan kunnen zij hiertegen ofwel risicobeperkende
+maatregelen nemen (zoals een reservekrukas aanschaffen), ofwel, als zij denken dat de vervoerder dit risico
+beter kan afdekken, de vervoerder informeren over dit
+risico. Wordt de vervoerder hierover geïnformeerd, dan
+vergroot dit de potentiële aansprakelijkheid van de vervoerder. Schade voortvloeiend uit een bijzondere
+omstandigheid waarvan de vervoerder op de hoogte is, is
+immers indirecte schade waarvoor de vervoerder in
+beginsel aansprakelijk is. In reactie daarop kan de vervoerder een aantal risicobeperkende maatregelen nemen,
+zoals het risico in de prijs verdisconteren of zichzelf
+tegen dit risico verzekeren. Wil hij dit risico niet op zich
+nemen, dan moet hij bedingen dat indirecte schade is
+uitgesloten, zodat de molenaars zelf risicobeperkende
+maatregelen moeten nemen.19
+4. Anglo-Amerikaans recht,
+met exoneratie voor
+indirecte schade
+In Hadley vs. Baxendale kwam de rechter tot de conclusie dat de gederfde winst directe noch indirecte schade
+was. Een exoneratie voor indirecte schade had de uitkomst daarom niet anders gemaakt. Het exoneratiebeding had wel effect gehad indien de molenaars de vervoerder hadden geïnformeerd over de bijzondere
+omstandigheid dat de molen stilstond zolang het onderdeel niet terug was. De gederfde winst was dan indirecte
+schade geweest.
+Een wijdverbreid misverstand, zelfs onder Anglo-Amerikaanse juristen, is dat gederfde winst altijd indirecte
+17. Hadley vs. Baxendale (1854), 9 Ex. 341, 156 Eng. Rep. 145.
+18. Farnsworth 2004, par. 12.14, met verwijzing naar R. Posner, Economic
+Analysis of Law 127, 2003.
+19. Dit positieve effect op de informatie-uitwisseling gaat ervan uit dat de
+contractspartijen deze in Hadley vs. Baxendale geformuleerde regel
+kennen en deze ook in een eventuele gerechtelijke procedure achteraf
+wordt toegepast. Gaan partijen uit van een andere definitie van indirecte schade en wordt in een eventuele procedure de in Hadley vs. Baxendale geformuleerde regel toegepast, dan kan het voor een partij als een
+verrassing komen dat het feit dat zij de andere partij hebben geïnformeerd over bepaalde bijzondere omstandigheden, ervoor zorgt dat de
+schade die daaruit voortvloeit, wordt gezien als indirecte schade.
+schade is.20 Dat is niet het geval. Of gederfde winst
+directe of indirecte schade is, of geen van beide, hangt af
+van de omstandigheden van het geval.
+Indien de gederfde winst natuurlijk voortvloeit uit de
+tekortkoming, is deze schade directe schade.21 Stel dat
+krukassen te duur zijn om hiervan een reserveonderdeel
+aan te houden en dat ‘in the great multitude of cases’
+molenaars niet zo’n reserveonderdeel hebben (en dus de
+molen stilstaat), dan zou de rechter tot het oordeel kunnen komen dat de winstderving natuurlijk voortvloeit
+uit de tekortkoming. De gederfde winst is dan directe
+schade.
+5. Nederlands recht, zonder
+exoneratie voor indirecte
+schade22
+Indien partijen geen contractuele aansprakelijkheidsbeperking opnemen, wordt aan de hand van de criteria uit
+de wettelijke schadevergoedingsregeling van het Burgerlijk Wetboek (kortweg causaal verband en toerekenbaarheid) bepaald of en, zo ja, welke schade voor vergoeding
+in aanmerking komt. Indien partijen wél een exoneratie
+opnemen voor indirecte schade, spelen dezelfde criteria
+doorgaans ook een rol bij de uitleg van het begrip indirecte schade, omdat zij met die contractuele regeling een
+afwijking beogen ten opzichte van de wettelijke schadevergoedingsregeling.
+Voor een verplichting tot schadevergoeding is op grond
+van artikel 6:74 BW een feitelijk causaal verband vereist
+tussen de wanprestatie en de schade in de vorm van een
+conditio sine qua non-verband.23 Hiervan is sprake in de
+molenaarscasus: zonder de wanprestatie (het niet per
+trein maar per boot vervoeren) zou er geen sprake
+geweest zijn van gederfde winst, omdat de molen dan
+niet vijf extra dagen had stilgestaan.
+Staat het feitelijk causaal verband vast, dan volgt de
+tweede stap, een normatieve toets. Op grond van artikel
+6:98 BW komt voor vergoeding slechts in aanmerking
+de schade die in zodanig verband staat met de tekortkoming, dat de schade redelijkerwijs kan worden toegerekend aan de dader.24 De beoordeling hiervan is een weging van factoren, waarvan de uitkomst niet altijd op
+voorhand goed is te voorspellen. Echter, de aard van de
+schade (gederfde winst),25 de aard van de aansprakelijkheid (aansprakelijkheid uit wanprestatie, waarbij in het
+20. West & Duran 2008, p. 779.
+21. Amerikaans recht: Penncro Associates, Inc. vs. Sprint Spectrum, LP, 499
+F. 3d 1151 (2007); Engels recht: Britisch Sugar Plc vs. NEI Power Projects Ltd (1997), 87 BLR 42 (CA).
+22. Bij de beantwoording van deze vraag wordt de wettelijke regeling
+omtrent wegvervoerders in Boek 8 BW buiten beschouwing gelaten.
+23. Asser/Hartkamp & Sieburgh 6-II 2013/47.
+24. Asser/Hartkamp & Sieburgh 6-II 2013/53.
+25. Asser/Hartkamp & Sieburgh 6-II 2013/64, 66.
+25
+doi: 10.5553/Contr/156608932017019001005 Contracteren maart 2017 | nr. 1
+Deze download van Boom uitgevers is enkel voor zakelijk gebruik voor Legisys / Houthoff | AI Pilot.
+contract naar verwachting bepaalde contractuele risico’s
+zijn verdisconteerd)26 en de onvoorzienbaarheid van de
+schade27 geven in dit geval aanleiding tot een minder
+ruime toerekening in het kader van artikel 6:98 BW.
+6. Nederlands recht, met
+exoneratie voor indirecte
+schade
+Een exoneratie voor indirecte schade is een boilerplatebeding. Partijen staan tijdens de onderhandelingen
+doorgaans niet lang stil bij de betekenis van indirecte
+schade en welke mogelijke schadeposten hieronder vallen. Bij een eventuele gerechtelijke procedure nadien, is
+doorgaans het tegenovergestelde waar. Leken zij bij het
+aangaan van het contract nog in de veronderstelling dat
+zij ongeveer dezelfde betekenis hechtten aan de term
+indirecte schade wanneer in de uitvoering van het contract schade ontstaat, dan blijken contractspartijen vaak
+van mening te verschillen over de betekenis van deze
+term of grijpen zij de mogelijkheid aan om het onduidelijke contractsbeding ieder in hun voordeel uit te leggen.28 Zij hebben de discussie over welke schade is uitgesloten in feite voor zich uitgeschoven. In de woorden
+van Anderson:
+‘As a result, many practitioners learn about whether a
+particular loss is consequential or general in much the
+same manner as road bugs learn about Mack trucks
+(i.e. after it is too late to do anything about it).’29
+In een gerechtelijke procedure zal de rechter aan de
+hand van de Haviltex-norm moeten vaststellen welke
+schade partijen wel en niet hebben bedoeld uit te sluiten. Doordat partijen niet of nauwelijks spreken over de
+precieze betekenis van het begrip indirecte schade, is de
+bedoeling van de partijen met het opnemen van deze
+exoneratie moeilijk te achterhalen, omdat verklaringen
+van partijen over en weer ten aanzien van het beding
+ontbreken.30 Men zal bij de uitleg van die begrippen
+aansluiting moeten zoeken bij meer objectieve gezichtspunten.31
+De letterlijke tekst van deze exoneratie biedt weinig aanknopingspunten; de woordenboekbetekenis van de term
+‘indirecte schade’ of ‘gevolgschade’ is te algemeen om
+26. Asser/Hartkamp & Sieburgh 6-II 2013/64, 70.
+27. Asser/Hartkamp & Sieburgh 6-II 2013/64, 71.
+28. Farnsworth 2004, par. 7.9.
+29. R.R. Anderson, Incidental and consequential damages, 7 J.L. & Com.
+1987, 327, 364.
+30. Tjittes 2009, p. 20-21.
+31. H.N. Schelhaas & W.L. Valk, Uitleg van rechtshandelingen, Preadviezen
+2016 uitgebracht voor de Vereniging voor Burgerlijk Recht, Uitgeverij
+Paris 2016.
+inzicht te geven in de bedoeling van partijen.32 Het ligt
+om die reden voor de hand om aansluiting te zoeken bij
+andere objectieve, meer ‘contextuele’ aanknopingspunten, zoals de overige bedingen in de overeenkomst en
+het al dan niet aannemelijk zijn van de rechtsgevolgen
+van een bepaalde uitleg.33 Doorgaans wordt bij de uitleg
+van het beding ook aansluiting gezocht bij de elementen
+van de wettelijke schadevergoedingsregeling: causaal
+verband en toerekenbaarheid. Uit de literatuur en jurisprudentie zijn er grofweg vier invullingen van het
+begrip indirecte schade te destilleren. Deze vier varianten worden hierna besproken.
+a. Variant I: schade aan rechtsgoed/overige
+schade
+In de eerste variant is directe schade de (zaak)schade aan
+of waardevermindering van het rechtsgoed dat voorwerp
+is van de overeenkomst.34 Alle overige schade is indirecte schade. Deze indirecte schade kan bestaan uit
+(zaak)schade aan andere zaken van de schuldeiser, schade toegebracht aan personen of zuivere vermogensschade (dat is vermogensschade die niet het gevolg is van de
+aantasting van personen of zaken) die de schuldenaar
+lijdt als gevolg van de tekortkoming, zoals gederfde
+winst.
+b. Variant II: lengte causale keten
+In de tweede variant is indirecte schade de schade die
+niet het onmiddellijke gevolg is van de wanprestatie.35
+Het onderscheid tussen directe en indirecte schade
+hangt af van de ‘lengte’ van de feitelijke causale keten
+tussen de wanprestatie en de schade en sluit hiermee aan
+bij artikel 6:74 BW.36 Is de causale keten kort, dan is de
+schade directe schade. Verder weg gelegen schade is
+indirecte schade.
+c. Variant III: mate van toerekenbaarheid
+In de derde variant hangt het onderscheid tussen directe
+en indirecte schade samen met de mate van toerekenbaarheid in de zin van artikel 6:98 BW.37 Indirecte schade is minder toerekenbare schade, maar nog wel toerekenbaar in de zin van artikel 6:98 BW. Dit veronderstelt
+32. G.D. West, Consequential damages redux: an updated study of the
+ubiquitous and problematic ‘excluded losses’ provision in private company acquisition agreements, The Business Lawyer 2015/70, p. 985,
+verwijzend naar Saint Line Ltd. vs. Richardsons Westgarth & Co,
+(1940), 2 KB 99, 103 (Eng.): ‘the term consequential damages is inherently ambiguous when used in an excluded losses provision (…) as a
+result the word consequential is not very illuminating, as all damage is
+in a sense consequential’.
+33. Zie Dousi 2016, p. 43.
+34. Asser/Hijma 7-I* 2013/475, waarin gevolgschade wordt gedefinieerd
+als ‘alle schade toegebracht aan het overige vermogen van de crediteur’.
+35. Zie bijv. Rb. Utrecht 12 mei 2010, HA ZA 09-1536; Hof Arnhem-Leeuwarden 7 juni 2016, ECLI:NL:GHARL:2016:4471; Hof Arnhem-Leeuwarden 24 december 2013, ECLI:NL:GHARL:2013:9927.
+36. De lengte van de causale keten is ook een factor bij de toerekening naar
+redelijkheid en moet onderscheiden worden van voorzienbaarheid. Zie
+R.J.B. Boonekamp, GS Schadevergoeding, art. 6:98, aant. 4.7 en de
+daarin genoemde literatuur en jurisprudentie: ‘In een complexe, vervlochten samenleving kunnen ook ver verwijderde gevolgen heel voorzienbaar zijn.’
+37. Zie bijv. Rb. Haarlem 28 juli 2010, HA ZA 07-1500.
+26
+Contracteren maart 2017 | nr. 1 doi: 10.5553/Contr/156608932017019001005
+Deze download van Boom uitgevers is enkel voor zakelijk gebruik voor Legisys / Houthoff | AI Pilot.
+dat er sprake kan zijn van meer en minder toerekenbare
+schade. De wettelijke test van artikel 6:98 BW gaat uit
+van wél of niet redelijkerwijs toerekenbare schade, en
+houdt hierbij rekening met een samenspel van meerdere
+factoren, waaronder de voorzienbaarheid. Een afweging
+van deze factoren bepaalt of de schade wél of niet toerekenbaar is. Binnen de toerekenbare schade is op basis
+van diezelfde factoren niettemin een onderscheid te
+maken tussen meer of minder toerekenbare schade.
+d. Variant IV: toerekenbaar/niet-toerekenbaar
+In de vierde variant is alle toerekenbare schade de directe schade en alle niet toerekenbare schade de indirecte
+schade. Volgens Tjong Tjin Tai is de ‘meest aangewezen interpretatie dat er met directe schade eenvoudigweg wordt gedoeld op toerekenbare schade in de zin van
+art. 6:98 BW’.38
+7. Commentaar op varianten
+I-IV
+Zoals gezegd, zal de term indirecte schade doorgaans in
+belangrijke mate moeten worden uitgelegd aan de hand
+van de overige bedingen in de overeenkomst en het al
+dan niet aannemelijk zijn van de rechtsgevolgen van een
+bepaalde uitleg. Dat betekent bijvoorbeeld dat gekeken
+moet worden of bij een bepaalde uitleg de verschillende
+bedingen in het contract een effectieve bijdrage leveren
+aan de riscoverdeling tussen partijen en of bij die uitleg
+de contractsbedingen elkaar niet tegenspreken of betekenisloos maken.39
+De hiervoor besproken eerste variant van hoe indirecte
+schade in de literatuur en jurisprudentie wordt uitgelegd, heeft als effect dat bijna alle schade kwalificeert als
+indirecte schade. Doorgaans zullen partijen niet zo’n
+vergaande beperking van de aansprakelijkheid voor ogen
+hebben. De schuldenaar heeft weinig prikkel om te
+voorkomen dat er bij het uitvoeren van zijn prestatie
+schade ontstaat aan het overige vermogen van de
+schuldeiser. De aansprakelijkheid voor die schade is
+immers contractueel uitgesloten. Dat partijen dat
+rechtsgevolg voor ogen hadden, lijkt mij doorgaans, uitzonderingen daargelaten, niet aannemelijk.
+De hiervoor besproken vierde variant daarentegen levert
+geen daadwerkelijke beperking op van de aansprakelijkheid, omdat niet toerekenbare schade ook zonder het
+exoneratiebeding niet voor vergoeding in aanmerking
+komt. Het exoneratiebeding is in dat geval betekenisloos
+38. Tjong Tjin Tai 2007, p. 230.
+39. Is bijv. in een exoneratie behalve een uitsluiting voor indirecte schade
+de schadevergoedingsverplichting gemaximeerd tot een bepaald
+bedrag, dan ligt het niet voor de hand dat met de uitsluiting van indirecte schade die monetaire beperking vrijwel irrelevant is, omdat ook
+zonder die monetaire beperking vrijwel alle schade is uitgesloten.
+en mijns inziens ligt deze uitleg om die reden niet voor
+de hand.40
+De tweede en derde variant zullen doorgaans het meest
+voor de hand liggen als uitleg van het begrip indirecte
+schade. Zij hebben echter een belangrijk nadeel, namelijk dat zij op voorhand weinig duidelijkheid geven over
+welke is uitgesloten. Immers, wanneer is de causale
+keten kort genoeg (variant II) of de toerekenbaarheid in
+voldoende mate aanwezig (variant III) om nog binnen de
+directe schade te vallen? Het punt waarop de schade
+‘van kleur verschiet’ en wordt gezien als indirecte schade is met deze relatieve maatstaven onduidelijk.
+8. Variant V: AngloAmerikaans recht
+Het Anglo-Amerikaanse recht laat zien dat er nog een
+vijfde variant mogelijk is waarbij de term indirecte schade wordt uitgelegd op basis van het arrest Hadley vs.
+Baxendale. Deze vijfde variant geeft mijns inziens meer
+richting dan de varianten II en III.
+Ik betoog echter niet dat de term indirecte schade altijd
+uitgelegd moet worden op basis van deze Anglo-Amerikaanse achtergrond. De term indirecte schade heeft naar
+Nederlands recht (nog) geen standaardbetekenis. Ook
+het enkele feit dat de term een Anglo-Amerikaanse achtergrond heeft, is op zichzelf onvoldoende om in alle
+gevallen de term volgens deze Anglo-Amerikaanse achtergrond uit te leggen.
+Echter, in gevallen waarbij de rechter geen of weinig
+aanknopingspunten heeft bij het bepalen van wat de
+bedoeling was van partijen met het opnemen van een
+exoneratie voor indirecte schade, en een rechter een
+meer objectieve uitleg zal moeten hanteren, kan het
+gebruiken van het Anglo-Amerikaanse recht als ‘juridisch woordenboek’ een goed instrument zijn bij de uitleg van dit van oorsprong Anglo-Amerikaanse begrip.41
+Ook het feit dat één of beide contractspartijen een
+Anglo-Amerikaanse achtergrond heeft, kan een belangrijk argument zijn om bij de uitleg van de term indirecte
+schade de Anglo-Amerikaanse achtergrond van dat
+beding een belangrijke rol te laten spelen.42
+In die vijfde variant op basis van Hadley vs. Baxendale
+is directe schade de schade die voorzienbaar is voor de
+schuldenaar, omdat deze schade natuurlijk voortvloeit
+40. Vergelijk Asser/Hartkamp & Sieburgh 6-III 2014/376: ‘Men moet een
+beding veeleer opvatten in de zin waarin het van enige uitwerking kan
+zijn, dan in die waarin het geen gevolg zou hebben.’
+41. Bij een objectieve uitleg naar Nederlands recht, waarbij het Anglo-Amerikaanse recht als gezichtspunt wordt gebruikt, is het recht zoals dat valt
+af te leiden uit Anglo-Amerikaanse wetgeving, rechtspraak en literatuur
+leidend. Dat sommige Anglo-Amerikaanse praktijkjuristen een afwijkend
+begrip hebben van de term indirecte schade, is in dat kader niet relevant.
+42. Dousi 2016.
+27
+doi: 10.5553/Contr/156608932017019001005 Contracteren maart 2017 | nr. 1
+Deze download van Boom uitgevers is enkel voor zakelijk gebruik voor Legisys / Houthoff | AI Pilot.
+uit zijn tekortkoming. Indirecte schade is voorzienbaar
+omdat de schuldenaar tijdens de onderhandelingen op
+de hoogte is gekomen van een bijzondere omstandigheid
+waaruit de schade voortvloeit. Deze variant sluit, net als
+de andere vier varianten, aan bij een van de elementen
+uit de Nederlandse wettelijke schadevergoedingsregeling, namelijk het element voorzienbaarheid bij de toerekeningstoets van artikel 6:98 BW.
+Zowel directe als indirecte schade zijn bij deze uitleg
+voorzienbare schade. Naar Nederlands recht wordt bij
+de beoordeling van de voorzienbaarheid immers zowel
+rekening gehouden met de kennis die de schuldenaar
+had behoren te bezitten, gemeten naar de maatstaf van
+een gemiddeld ontwikkeld mens onder vergelijkbare
+omstandigheden (daaronder valt doorgaans de kennis
+over de schade die natuurlijk voortvloeit uit de tekortkoming), alsook met de daadwerkelijke kennis die de
+schuldenaar bezit (bijvoorbeeld doordat hij op de hoogte
+is geraakt van een bijzonder omstandigheid van de
+schuldenaar). Met een exoneratie voor indirecte schade
+sluiten partijen dus bepaalde (maar niet alle) voorzienbare schade uit die zonder die exoneratie wél voor schadevergoeding in aanmerking zou komen.
+9. Slotbeschouwing
+De bedoeling van partijen met het opnemen van een
+boilerplate-beding is doorgaans het opnemen van een
+standaardbeding met een standaardbetekenis. Zolang in
+het Nederlandse recht niet een standaardbetekenis
+bestaat, biedt de standaardbetekenis uit het Anglo-Amerikaanse recht een bruikbaar gezichtspunt. Dat geldt des
+te meer omdat de Anglo-Amerikaanse betekenis goed is
+in te passen in het Nederlandse recht, omdat zij aansluit
+bij (en kan fungeren als een verdere verfijning van) het
+element voorzienbaarheid in de toerekeningstoets van
+artikel 6:98 BW.
+De term indirecte schade kan wel een standaardbetekenis krijgen indien de term in de rechtspraktijk vaak
+genoeg op dezelfde manier wordt uitgelegd. Ik meen dat
+de rechtspraktijk daar baat bij zou hebben, omdat dit de
+voorspelbaarheid vergroot, wat strookt met de behoefte
+van vooral professionele partijen aan rechtszekerheid en
+beantwoordt aan de bedoeling van partijen om met een
+boilerplate-beding een standaardbeding met een standaardbetekenis op te nemen.43
+10.Aanbevelingen voor de
+rechtspraktijk
+De meest duidelijke exoneratie maakt geen gebruik van
+de term indirecte schade, maar sluit concrete schade43. Tjittes 2009, p. 24-25, 43.
+soorten uit, bijvoorbeeld gederfde winst of reputatieschade. Even duidelijk is een exoneratie waarbij wordt
+gewerkt met monetaire limieten. De eerste en tweede
+optie kunnen ook gecombineerd worden, bijvoorbeeld:
+‘Partijen zijn niet aansprakelijk voor gederfde winst of
+reputatieschade en aansprakelijkheid is in alle gevallen
+beperkt tot € 1 miljoen per jaar.’
+Willen partijen in hun exoneratie toch de term indirecte
+schade gebruiken, dan is het aan te raden een definitie in
+het contract op te nemen. Zo krijgen partijen op voorhand duidelijkheid over hoe deze term uitgelegd moet
+worden. Willen partijen de Anglo-Amerikaanse uitleg
+gebruiken, dan kunnen zij daarvoor de volgende definitie opnemen: ‘De indirecte schade betekent de schade
+die voortvloeit uit een bijzondere omstandigheid aan de
+kant van de schuldeiser, waarvan de schuldenaar op de
+hoogte was of had moeten zijn ten tijde van het sluiten
+van de overeenkomst.’
+Een punt van aandacht is de schadepost gederfde winst.
+Naar Nederlands recht komt gederfde winst in beginsel
+als schade voor vergoeding in aanmerking. Bij veel commerciële transacties is het goed voorzienbaar dat bij een
+wanprestatie gederfde winst wordt geleden. Echter, de
+exacte hoogte van die gederfde winst hangt sterk samen
+met de specifieke omstandigheden aan de kant van de
+schuldeiser, die voor de schuldenaar bij het aangaan van
+de overeenkomst soms minder goed zijn te voorzien.
+Gebruikt men de Anglo-Amerikaanse uitleg van de term
+indirecte schade, dan is alleen de gederfde winst uitgesloten die voortvloeit uit een bijzondere omstandigheid.
+De gederfde winst die natuurlijk voortvloeit uit de
+tekortkoming komt wel voor vergoeding in aanmerking.
+Willen partijen álle gederfde winst contractueel uitsluiten, dan zullen zij gederfde winst moeten uitsluiten als
+een afzonderlijke categorie en niet als onderdeel van de
+uitsluiting van indirecte schade. Gebruik daarom niet:
+‘partijen zijn niet aansprakelijk voor indirecte schade,
+waaronder begrepen gederfde winst’, maar: ‘partijen
+zijn niet aansprakelijk voor gederfde winst en niet voor
+indirecte schade’.
+28
+Contracteren maart 2017 | nr. 1 doi: 10
