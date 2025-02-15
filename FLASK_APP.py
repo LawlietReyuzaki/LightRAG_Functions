@@ -8,8 +8,6 @@ from lightrag.llm.openai import gpt_4o_mini_complete, openai_embed
 app = Flask(__name__)
 CORS(app)  # Enable CORS for all routes
 
-os.environ["OPENAI_API_KEY"] ="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"
-
 
 # Set OpenAI API Key
 os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
